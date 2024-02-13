@@ -5,7 +5,7 @@
 
 - Exercises 1
 
-[Exercises_1_HousePrices(Solution)](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_1_HousePrices(Solution).ipynb)
+[Exercises_1_HousePrices(Solution).ipynb](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_1_HousePrices(Solution).ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_1_HousePrices(Solution).ipynb)
 
@@ -30,3 +30,17 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_4_Breast_Cancer_Classification(Solution).ipynb)
 
+### Session 4
+
+- Exercises 5
+
+[Exercises_5_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_5_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_5_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo.ipynb)
+
+
+- Exercises 6
+
+[Exercises_6_UnsupervisedLearning_apriori_association_rule(Solution).ipynb](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_6_UnsupervisedLearning_apriori_association_rule(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/yapay-zeka-egitimi-tubitak-bideb-2237a/blob/main/notebooks/Exercises_6_UnsupervisedLearning_apriori_association_rule(Solution).ipynb)
